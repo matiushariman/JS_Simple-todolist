@@ -1,1 +1,1 @@
-# JS_Simple-todolist
+# Simple todolist created using JavaScript (jQuery)
